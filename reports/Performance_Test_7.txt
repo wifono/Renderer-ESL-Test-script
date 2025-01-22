@@ -1,0 +1,10 @@
+Performance Test 7
+Date: 20. 1. 2025 13:27:20
+---------------------------------------------
+Total Time: 61.99 seconds
+Total Images Processed: 25000
+Total Images Saved: 3799
+Total Errors: 1
+---------------------------------------------
+Error Summary:
+Request failed for labelId D1021985: HTTP error! Status: 400

@@ -1,0 +1,11 @@
+Performance Test 6
+Date: 20. 1. 2025 13:21:41
+---------------------------------------------
+Total Time: 61.57 seconds
+Total Images Processed: 25000
+Total Images Saved: 3798
+Total Errors: 2
+---------------------------------------------
+Error Summary:
+Request failed for labelId D2930140: HTTP error! Status: 400
+Request failed for labelId D6932998: HTTP error! Status: 400

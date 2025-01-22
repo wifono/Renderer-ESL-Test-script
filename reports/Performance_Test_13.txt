@@ -1,0 +1,10 @@
+Performance Test 13
+Date: 21. 1. 2025 9:12:38
+---------------------------------------------
+Total Time: 61.16 seconds
+Total Images Processed: 25000
+Total Images Saved: 11600
+Total Errors: 0
+---------------------------------------------
+Error Summary:
+
